@@ -1,6 +1,7 @@
 # Fast_Timing_Model_Estimation_for_new_PVT
 ## 2020 cad contest problem D  
- [官網](http://iccad-contest.org/2020/tw/problems.html)  
+ [點我連官網](http://iccad-contest.org/2020/tw/problems.html)  
+
 ## 題目簡介  
 
 ### Introduction  
@@ -46,7 +47,7 @@
 
 此資料檔只是一小部分，全部總共有 15 個檔案，也就是 15 種 PVT condition  
 
-[data](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/tree/master/data)  
+[點我連 data](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/tree/master/data)  
 
 ## todo list
 
