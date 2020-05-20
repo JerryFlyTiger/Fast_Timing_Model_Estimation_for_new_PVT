@@ -21,19 +21,27 @@
 	library 一同上傳繳交。本次題目使用的 library 共包含 700 個 cell。PVT condition 共 15 種，各抽取 400 個 cell  
 	作為 training set 供參賽者訓練模型使用，並於競賽各階段提供 inference 資訊及模板， 其內容包含 training set  
 	以外的 100 個新 cell。本次競賽提供的模板為 timing table、power table 挖空後的框架。參賽者必須利用訓練出來的  
-	模型推導出相同 100 個 cell 的其他 PVT 的的 timing 及 power 資訊再填入模板。  
+	模型推導出相同 100 個 cell 的其他 PVT 的 timing 及 power 資訊再填入模板。  
   
 ### 程式流程：  
+  要做到能預測沒看過的 cell 的其他 PVT 的  timing 及 power 資訊
 ![program flow](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/blob/master/programFlow.jpg)  
 
 ### 訓練流程：  
+  用 280 個 cell 當訓練資料，剩餘 120 個拿來測試
 ![training flow](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/blob/master/trainingFlow.jpg)  
 
 ### 前處理流程：  
+  因為不是 csv 檔，所以要先處理
 ![preprocess flow](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/blob/master/preprocess.jpg)  
 
 ### ProblemD pdf :  
+  倉庫內的 pdf 檔的連結
+[pdf](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/blob/master/ProblemD_0201.pdf)
 
+### 範例資料:  
+  此資料檔只是一小部分，全部總共有 15 個檔案，也就是 15 種 PVT condition
+[dara](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/tree/master/data)
 
 ### 競賽海報：  
 ![海報](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/blob/master/2020CAD_%E5%9C%8B%E5%85%A7%E8%B3%BD%E5%AE%9A%E7%A8%BF%E6%B5%B7%E5%A0%B1.jpg)
