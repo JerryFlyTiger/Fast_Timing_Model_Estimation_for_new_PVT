@@ -20,5 +20,5 @@ II. Problem Description
 	power table 挖空後的框架。參賽者必須利用訓練出來的模型推導出相同 100 個 cell 的其他 PVT 的的 timing 及 power 資訊再填入模板。  
   
 程式流程：  
-![programFlow]("/Users/jerrychen/OneDrive/文件/cadContest/R_version/Fast_Timing_Model_Estimation_for_new_PVT")  
+![programFlow]("/Users/jerrychen/OneDrive/文件/cadContest/R_version/Fast_Timing_Model_Estimation_for_new_PVT/programFlow.jpg")  
 
