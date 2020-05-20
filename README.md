@@ -1,7 +1,8 @@
 # Fast_Timing_Model_Estimation_for_new_PVT
 ## 2020 cad contest problem D  
  [官網](http://iccad-contest.org/2020/tw/problems.html)  
- 
+## 題目簡介  
+
 ### Introduction  
     
         在 ASIC (Application-Specific Integrated Circuit) 及 SoC (System on Chip) 設計流程中 standard cell library  
@@ -47,7 +48,7 @@
 
 [data](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/tree/master/data)  
 
-### todo list
+## todo list
 
 - [x] 規劃
 - [ ] 前處理
@@ -58,10 +59,13 @@
   - [ ] 以題目指定的評估精準度公式撰寫評估程式
 - [ ] 評估
 
-### Problem D 更多資訊  
+## 進度報告書
+[倉庫內的進度報告的連結]()
+
+## Problem D 更多資訊  
 
 [倉庫內的 pdf 檔的連結](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/blob/master/ProblemD_0201.pdf)  
 
-### 競賽海報：  
+## 競賽海報：  
 ![海報](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/blob/master/2020CAD_%E5%9C%8B%E5%85%A7%E8%B3%BD%E5%AE%9A%E7%A8%BF%E6%B5%B7%E5%A0%B1.jpg)  
 
