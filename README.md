@@ -1,6 +1,6 @@
 # Fast_Timing_Model_Estimation_for_new_PVT
  2020 cad contest problem D  
- [2020 cad contest](http://iccad-contest.org/2020/tw/problems.html)  
+ [2020 cad contest 官網](http://iccad-contest.org/2020/tw/problems.html)  
  I. Introduction  
     
         在 ASIC (Application-Specific Integrated Circuit) 及 SoC (System on Chip) 設計流程中 standard cell library  
@@ -20,5 +20,5 @@ II. Problem Description
 	power table 挖空後的框架。參賽者必須利用訓練出來的模型推導出相同 100 個 cell 的其他 PVT 的的 timing 及 power 資訊再填入模板。  
   
 程式流程：  
-![programFlow]("~/OneDrive/文件/cadContest/R_version/Fast_Timing_Model_Estimation_for_new_PVT")  
+![programFlow]("/Users/jerrychen/OneDrive/文件/cadContest/R_version/Fast_Timing_Model_Estimation_for_new_PVT")  
 
