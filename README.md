@@ -7,7 +7,7 @@
   
 II. Problem Description  
   
-    參賽者必須使用機器學習方法來訓練出準確的預測模型，例如:Tensorflow、PyTorch、 MATLAB，並將模型與輸出的 library 一同上傳繳交。本次題目使用的 library 共包含 700 個 cell。PVT condition 共 15 種(如下表)，各抽取 400 個 cell 作為 training set 供參賽者訓練模型使用，並於競賽各階段提供 inference 資訊及模板， 其內容包含 training set 以外的 100 個新 cell。本次競賽提供的模板為 timing table、power table 挖空後的框架。參賽者必須利用訓練出來的模型推導出相同 100 個 cell 的其他 PVT 的的 timing 及 power 資訊再填入模板。  
+    參賽者必須使用機器學習方法來訓練出準確的預測模型，例如:Tensorflow、PyTorch、 MATLAB，並將模型與輸出的 library 一同上傳繳交。本次題目使用的 library 共包含 700 個 cell。PVT condition 共 15 種，各抽取 400 個 cell 作為 training set 供參賽者訓練模型使用，並於競賽各階段提供 inference 資訊及模板， 其內容包含 training set 以外的 100 個新 cell。本次競賽提供的模板為 timing table、power table 挖空後的框架。參賽者必須利用訓練出來的模型推導出相同 100 個 cell 的其他 PVT 的的 timing 及 power 資訊再填入模板。  
   
 程式流程：  
 ![programFlow]( "~/programFlow.jpg")  
