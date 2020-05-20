@@ -27,14 +27,14 @@
 ![program flow](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/blob/master/programFlow.jpg)  
 
 ### 訓練流程：  
-![training flow]()  
+![training flow](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/blob/master/trainingFlow.jpg)  
 
 ### 前處理流程：  
-![preprocess flow]()  
+![preprocess flow](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/blob/master/preprocess.jpg)  
 
 ### ProblemD pdf :  
 
 
 ### 競賽海報：  
-![海報]()
+![海報](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/blob/master/2020CAD_%E5%9C%8B%E5%85%A7%E8%B3%BD%E5%AE%9A%E7%A8%BF%E6%B5%B7%E5%A0%B1.jpg)
 
