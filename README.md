@@ -47,7 +47,18 @@
 
 [data](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/tree/master/data)  
 
-### ProblemD pdf  
+### todo list
+
+- [x] 規劃
+- [ ] 前處理
+  - [ ] 寫文字處理程式將 cell library 轉成 csv
+  - [ ] 分七成為訓練資料，三成為測試資料
+- [ ] 訓練
+  - [ ] 撰寫機器學習程式
+  - [ ] 以題目指定的評估精準度公式撰寫評估程式
+- [ ] 評估
+
+### Problem D 更多資訊  
 
 [倉庫內的 pdf 檔的連結](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/blob/master/ProblemD_0201.pdf)  
 
