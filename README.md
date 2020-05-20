@@ -1,7 +1,8 @@
 # Fast_Timing_Model_Estimation_for_new_PVT
- 2020 cad contest problem D  
- [2020 cad contest 官網](http://iccad-contest.org/2020/tw/problems.html)  
- I. Introduction  
+## 2020 cad contest problem D  
+ [官網](http://iccad-contest.org/2020/tw/problems.html)  
+ 
+### Introduction  
     
         在 ASIC (Application-Specific Integrated Circuit) 及 SoC (System on Chip) 設計流程中 standard cell library  
 	扮演著十分重要的角色，從模擬、合成到物理實體佈局都需要透過 standard cell library 來取得 cell 相關資訊，  
@@ -14,7 +15,7 @@
 	characterize 出 少數 cells，經由 machine learning 方法快速得到一版 cell timing，將有助於設計時程加速以及不同  
 	PVT 下的 design performance 快速探索與評估。  
   
-II. Problem Description  
+### Problem Description  
   
         參賽者必須使用機器學習方法來訓練出準確的預測模型，例如:Tensorflow、PyTorch、 MATLAB，並將模型與輸出的  
 	library 一同上傳繳交。本次題目使用的 library 共包含 700 個 cell。PVT condition 共 15 種，各抽取 400 個 cell  
@@ -22,6 +23,18 @@ II. Problem Description
 	以外的 100 個新 cell。本次競賽提供的模板為 timing table、power table 挖空後的框架。參賽者必須利用訓練出來的  
 	模型推導出相同 100 個 cell 的其他 PVT 的的 timing 及 power 資訊再填入模板。  
   
-程式流程：  
-![program Flow](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/blob/master/programFlow.jpg)  
+### 程式流程：  
+![program flow](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/blob/master/programFlow.jpg)  
+
+### 訓練流程：  
+![training flow]()  
+
+### 前處理流程：  
+![preprocess flow]()  
+
+### ProblemD pdf :  
+
+
+### 競賽海報：  
+![海報]()
 
