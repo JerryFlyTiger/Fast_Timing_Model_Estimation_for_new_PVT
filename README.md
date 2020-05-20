@@ -62,7 +62,7 @@
 
 ## 進度報告書
 
-[倉庫內的進度報告的連結](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/blob/master/%E9%80%B2%E5%BA%A6%E5%A0%B1%E5%91%8A.pdf)
+[倉庫內的進度報告的連結](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/blob/master/%E9%80%B2%E5%BA%A6%E5%A0%B1%E5%91%8A/%E9%80%B2%E5%BA%A6%E5%A0%B1%E5%91%8A.pdf)
 
 ## Problem D 更多資訊  
 
