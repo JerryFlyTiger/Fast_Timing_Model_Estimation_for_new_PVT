@@ -27,7 +27,7 @@
   
 ### 程式流程：  
 
-要做到能預測沒看過的 cell 的其他 PVT 的  timing 及 power 資訊  
+要做到能預測沒看過的 cell 的其他 PVT 的 timing 及 power 資訊  
 
 ![program flow](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/blob/master/programFlow.jpg)  
 
@@ -53,7 +53,7 @@
 
 - [x] 規劃
 - [ ] 前處理
-  - [ ] 寫文字處理程式將 cell library 轉成 csv
+  - [ ] 寫文字處理程式將 cell library 轉成 csv 檔
   - [ ] 分七成為訓練資料，三成為測試資料
 - [ ] 訓練
   - [ ] 撰寫機器學習程式
@@ -61,6 +61,7 @@
 - [ ] 評估
 
 ## 進度報告書
+
 [倉庫內的進度報告的連結](https://github.com/JerryFlyTiger/Fast_Timing_Model_Estimation_for_new_PVT/blob/master/%E9%80%B2%E5%BA%A6%E5%A0%B1%E5%91%8A.pdf)
 
 ## Problem D 更多資訊  
