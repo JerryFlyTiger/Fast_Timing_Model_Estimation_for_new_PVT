@@ -1,4 +1,9 @@
 # Fast_Timing_Model_Estimation_for_new_PVT
+
+# R 期末專題  
+	
+	用 R 做資料處理，將 cell library 檔案轉成 csv 格式的 dataset，以便訓練  
+	
 ## 2020 cad contest problem D  
  [點我連官網](http://iccad-contest.org/2020/tw/problems.html)  
 
