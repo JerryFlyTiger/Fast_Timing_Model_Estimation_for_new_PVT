@@ -2,7 +2,9 @@
 
 # R 期末專題  
 	
-	用 R 做資料處理，將 cell library 檔案轉成 csv 格式的 dataset，以便訓練  
+	目標一：用 R 做資料處理，將 cell library 檔案轉成 csv 格式的 dataset，以便訓練  
+	
+	目標二：以 R 機器學習套件做訓練，測試效果好壞  
 	
 ## 2020 cad contest problem D  
  [點我連官網](http://iccad-contest.org/2020/tw/problems.html)  
