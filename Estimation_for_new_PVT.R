@@ -83,9 +83,9 @@ valid_10_data <- function( y_Val, x_Val, l ) {
   sapply( 1 : 10, function( i ) {
     # 取一份出來當驗證數據，其他為訓練數據
     drop_trainingSet_tVal <- unlist( y_Val[-i], use.names=FALSE )
-    std_trainingSet_tVal  <- unlist( x_Val[-i], use.names=FALSE )
+    std_trainingSet_tVal <- unlist( x_Val[-i], use.names=FALSE )
     drop_validationSet_tVal <- unlist( y_Val[i], use.names=FALSE )
-    std_validationSet_tVal  <- unlist( x_Val[i], use.names=FALSE )
+    std_validationSet_tVal <- unlist( x_Val[i], use.names=FALSE )
     score <- validation( drop_trainingSet_tVal, std_trainingSet_tVal, drop_validationSet_tVal, std_validationSet_tVal, i, l )
     print( score )
   })
